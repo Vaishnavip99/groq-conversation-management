@@ -1,4 +1,4 @@
-# Conversation Management & Classification using Groq API  
+# Conversation Management using Groq API  
 
 ## 📌 Objective  
 This project demonstrates two core tasks using the **Groq API** (OpenAI-compatible SDK):  
